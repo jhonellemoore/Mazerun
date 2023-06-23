@@ -10,3 +10,5 @@ this challenging network of paths to get away from looming zombies and escape th
 The aim of the game is to get the user’s character across the complex maze safely, as well as race against the 60 second clock to 
 complete the maze in the shortest time period. MazeRun combines competition with intuition and ensures that players get hooked after just 
 one round of intense play.
+
+The file for the game is in mazerun_game.py
